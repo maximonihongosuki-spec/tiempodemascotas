@@ -1,0 +1,8 @@
+{
+  "name": "Tiempo de Mascotas v1.0",
+  "description": "Plataforma integral de gestión de ventas y catálogo para la veterinaria \"Tiempo de Mascotas\"",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
